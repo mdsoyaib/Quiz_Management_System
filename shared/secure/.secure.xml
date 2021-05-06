@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string>
+  <db>
+    <servername>localhost</servername>
+    <username>root</username>
+    <password>swordandm</password>
+    <db_name>quiz_management_system</db_name>
+  </db>
+</string>
