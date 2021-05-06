@@ -1,1 +1,1 @@
-
+Quiz Management System is a simple web-based application for quiz. In this system, Teacher can create, edit, delete quiz and see results. And students can attend quizzes and see quiz marks. This system is based on simple UI where it is user friendly for both teacher and students.
